@@ -1,0 +1,27 @@
+.subside__barmenu img {
+    max-width: 260px;
+}
+
+  .console-container {
+ 
+    font-family:Khula;
+    font-size:60px;
+    text-align:left;
+    height:200px;
+    width:600px;
+    display:block;
+    position:absolute;
+    color:white;
+
+  }
+  .console-underscore {
+     display:inline-block;
+    position:relative;
+    top:-0.14em;
+    left:10px;
+  }
+
+
+  .price_li li {
+    color: #232849 !important;
+}
