@@ -2,13 +2,6 @@
 
 /* ======== js Documentation =======
 
-	# Template Name: matias
-	# Version: 1.0
-	# Date: 29/10/2023
-	# Author: matias
-	# Author URI: https://themeforest.net/user/theme_ocean
-	# Description: Matias - Personal Portfolio Templates
-	
 ============== */
 
 //>> Javascrip Js <<//
@@ -274,7 +267,7 @@ $(document).ready(function () {
 
 	//>> Preloader <<//
 	setTimeout(function(){
-		$('.preloader__matias').fadeToggle();
+		$('.site-preloader').fadeToggle();
 	}, 1500);
 	//>> Preloader <<//
 
@@ -301,7 +294,6 @@ $(function () {
     })
 });
 //>> Search Popup <<//
-
 
 
 
